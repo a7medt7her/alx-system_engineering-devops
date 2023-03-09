@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 mkdir my_first_directory mv my_first_directory /tmp/
-=======
-mkdir my_first_directory /tmp/my_first_directory
->>>>>>> 9c5bf8b94963128400b971d49095203817bd2692
