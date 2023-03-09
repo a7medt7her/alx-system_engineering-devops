@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash/
-=======
 #!/bin/bash
->>>>>>> 39de6a599ed1c09321b358bd72d32801ba5c0215
-mkdir my_first_directory /tmp/my_first_directory
+mkdir /tmp/my_first_directory
